@@ -30,7 +30,7 @@
 - **Full Stack:** MERN (MongoDB, Express.js, React, Node.js)
 
 <!-- Divider -->
----
+
 ---
 
 <!-- About Me Section -->
