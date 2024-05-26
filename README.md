@@ -23,11 +23,15 @@
 
 <!-- About Me Section -->
 ### 👀 About Me
-- 👀 I’m interested in **Java development**, **web development**, **machine learning**, and **open-source contributions**.
-- 🌱 I’m currently learning **full-stack development** with a focus on **JavaScript frameworks** like **React** and **Node.js**, as well as advanced **Java programming**.
-- 💞️ I’m looking to collaborate on innovative **web applications**, **machine learning projects**, **Java-based applications**, and contributing to **open-source repositories**.
+- 🚀 Recently rocketed out of my university with a degree in Computer Science
+- 💻 Passionate about full-stack development and building innovative web applications
+- 🌱 Currently exploring new technologies and frameworks to enhance my skills
+- 🌟 On a quest to explore the endless universe of tech possibilities
+- 👀 I’m interested in **Java development**, **Web Development**, **Machine Learning**,**Full-stack development** and **Open-Source Contributions**.
+- 🌱 I’m currently learning **Full-stack development** with a focus on **JavaScript frameworks** like **React** and **Node.js**
+- 💞️ I’m looking to collaborate on innovative **Web applications**, **Java-based applications**, and contributing to **Open-Source Repositories**.
 - 😄 Pronouns: **He/Him**
-- ⚡ Fun fact: I once coded a complete application using only a mobile phone during a long trip!
+- I celebrated my graduation by coding a fun side project!
 - 🎨 Hobbies: Reading tech blogs, hiking, playing chess, and experimenting with new programming languages.
 
 <!-- Divider -->
