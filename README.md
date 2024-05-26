@@ -22,11 +22,12 @@
 <!-- Skills Section -->
 ### Skills
 
-- **Languages:** Java, JavaScript, HTML, CSS
+- **Languages:** Java, JavaScript, HTML, CSS, C, C++
 - **Frameworks:** Spring, React
 - **Databases:** MongoDB, PostgreSQL, MySQL
 - **Developer Tools:** Git, VS Code, IntelliJ IDEA, Eclipse, Postman
 - **Mobile Development:** Android Development
+- **Machine Learning**
 - **Full Stack:** MERN (MongoDB, Express.js, React, Node.js)
 
 <!-- Divider -->
@@ -108,6 +109,24 @@
   <a href="#">
     <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
   </a>
+  <a href="#">
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+</a>
+<a href="#">
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
+</a>
+<a href="#">
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
+</a>
+<a href="#">
+  <img src="https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge&logo=machine-learning&logoColor=white" alt="Machine Learning" />
+</a>
+<a href="#">
+  <img src="https://img.shields.io/badge/Android_Development-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android Development" />
+</a>
+
+
+
 </p>
 
 
