@@ -1,6 +1,6 @@
 <!-- Title and Introduction -->
 <h1 align="center">Hi 👋, I'm Bibek Shah</h1>
-<h3 align="center">A passionate Full Stack Developer</h3>
+
 
 <!-- Social Media Links -->
 <p align="center">
@@ -19,6 +19,18 @@
 </p>
 
 <!-- Divider -->
+<!-- Skills Section -->
+### Skills
+
+- **Languages:** Java, JavaScript, HTML, CSS
+- **Frameworks:** Spring, React
+- **Databases:** MongoDB, PostgreSQL, MySQL
+- **Developer Tools:** Git, VS Code, IntelliJ IDEA, Eclipse, Postman
+- **Mobile Development:** Android Development
+- **Full Stack:** MERN (MongoDB, Express.js, React, Node.js)
+
+<!-- Divider -->
+---
 ---
 
 <!-- About Me Section -->
